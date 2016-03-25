@@ -64,41 +64,26 @@ ul.home-btn-list > li{
     transform: scale(1.1);
     color: white;
     background-color: rgba(0, 0, 0, 0.6);
-    
 }
-
 .about {
   position: relative;
-  
   background: url("../img/fractal6.jpg") no-repeat center center fixed;
   /*background: url('https://pixabay.com/get/e835b20a2bf0043ecd1f4405e64a409fe26ae3d11cb9194290f8c570/laptop-1035345.jpg') no-repeat center center fixed;*/
-  
   background-image: transparent; 
-  /*opacity: 0.7; */
   background-size: cover;
   height: 850px;
 }
 
 .myself-row{
-  
   margin:20px 20px 20px auto; 
   padding-top: 50px;
   color: #000;
 }
 
 #text-box{
-  /*border-radius: 10px; 
-  box-shadow: 5px 5px 5px #888888; 
-  border: 1px solid;
-  */
   margin-top: 150px;
   margin-left: 50px; 
   color: #fff;
-  /*padding-top: 50px;
-  color: #000;
-  background-color: #000; 
-
-*/
 }
 
 p.about-text{

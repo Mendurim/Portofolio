@@ -27,7 +27,6 @@ body, h1, h2, h3, h4, h5, h6, p {
 .home {
   padding-top: 100px;
   background: url("../img/fractal2.jpg") no-repeat center center fixed;
-  /*background: url('https://pixabay.com/get/ee35b3072ef71c3e955b4505e04a4f97fe76e6d011b9124795f0c6/menger-702863.jpg') no-repeat center center fixed;*/
   background-size: cover;
   height: 850px;
   text-align: center;
@@ -68,7 +67,6 @@ ul.home-btn-list > li{
 .about {
   position: relative;
   background: url("../img/fractal6.jpg") no-repeat center center fixed;
-  /*background: url('https://pixabay.com/get/e835b20a2bf0043ecd1f4405e64a409fe26ae3d11cb9194290f8c570/laptop-1035345.jpg') no-repeat center center fixed;*/
   background-image: transparent; 
   background-size: cover;
   height: 850px;
@@ -103,7 +101,6 @@ p.about-text{
     overflow: hidden;
     position: static;
     background-color: white;
-    /*background: url('https://pixabay.com/get/ee35b3072bf31c3e955b4505e04a4f97fe76e6d011b9124797f7c6/menger-702837.jpg') no-repeat center center fixed;*/
     background: url("../img/fractal2.jpg") no-repeat center center fixed;
     background-size: cover;      
 } 

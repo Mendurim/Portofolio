@@ -3,21 +3,13 @@ body, html {
   width: 100%;
   
 }
-/*#navbar ul li {
-  display: inline-block;
-  float: right; 
-}*/
-
 body, h1, h2, h3, h4, h5, h6, p {
   font-family: 'Lato','Open Sans', Helvetica, sans-serif;
     font-style: normal;
     font-variant: normal;
     font-weight: 500;
-    color: black;
-    
+    color: black;   
 }
-
-
 .intro-message {
   padding-top: 80px;
   color: #fff;
@@ -56,7 +48,6 @@ hr{
 ul.home-btn-list > li{
   padding: 10px;
 }
-
 .btn {
     display: inline-block;
     vertical-align: middle;
@@ -64,8 +55,7 @@ ul.home-btn-list > li{
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
     transition-duration: 0.1s;
     transition-property: transform;
-    background-color: #bfbfbf;
-    
+    background-color: #bfbfbf;  
 }
 
 .btn:hover,

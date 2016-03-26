@@ -32,16 +32,13 @@ body, h1, h2, h3, h4, h5, h6, p {
   text-align: center;
 }
 
-
 hr{
   width: 100%;
 }
-
 .home-hr{
   border-top: 2px rgba(0,0,0,0.4);
   border-bottom: 1px rgba(0,0,0,0.2);
   border-style: solid;
-
 }
 
 ul.home-btn-list > li{
@@ -56,7 +53,6 @@ ul.home-btn-list > li{
     transition-property: transform;
     background-color: #bfbfbf;  
 }
-
 .btn:hover,
 .btn:focus,
 .btn:active {

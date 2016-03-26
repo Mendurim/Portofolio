@@ -129,7 +129,6 @@ p.about-text{
 
 .portfolio-item-container{
   position: relative;
-  /*border: 1px outset rgba(0, 0, 0, 0.6);*/
 }
 
 .portfolio-item-container:hover{
@@ -178,7 +177,6 @@ p.about-text{
   color: white;
   font-size: 20px;
 }
-
 .contact {
   background: url("../img/fractal4.jpg") no-repeat center center fixed;
   background-size: cover;
@@ -201,7 +199,6 @@ ul.contact-btn-list > li{
   padding-top: 100px;
   color: #fff;
 }
-
 footer {
     background-color: #000;
     height: 150px;
@@ -210,15 +207,11 @@ footer {
     position:absolute;   
     float: right; 
     }
-
 .footer-list{
   font-weight: 600;
 }
-
 .copyright {
   color: #fff;
   font-weight: 500;
   font-size: 80%;
 }
-
-
